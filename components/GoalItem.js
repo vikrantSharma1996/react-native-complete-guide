@@ -18,7 +18,7 @@ const GoalItem = (props) => {
       <View style={styles.listItem}>
         <Text>{props.title}</Text>
       </View>
-    </TouchableOpacity> 
+    </TouchableOpacity>
   );
 };
 
